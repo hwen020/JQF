@@ -2,7 +2,7 @@
 From https://github.com/rohanpadhye/JQF 
 This is just an implementation of JQF. Please read the README.pdf. 
 
-33 1. **Implementation Documentation:**
+## 1. **Implementation Documentation:**
 
 **Step 1: Download and set up JQF**
 - **Substep 1.1:** Cloned the JQF repository from GitHub.
